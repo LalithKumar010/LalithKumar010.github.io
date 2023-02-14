@@ -2,10 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lalithkumar010.com/categories/</loc>
+    <loc>https://lalithkumar010.com/tags/about/</loc>
+    <lastmod>2023-02-14T21:29:17+05:30</lastmod>
+  </url><url>
+    <loc>https://lalithkumar010.com/page/about/</loc>
+    <lastmod>2023-02-14T21:29:17+05:30</lastmod>
+  </url><url>
+    <loc>https://lalithkumar010.com/tags/certs/</loc>
+    <lastmod>2023-02-14T21:29:17+05:30</lastmod>
+  </url><url>
+    <loc>https://lalithkumar010.com/tags/history/</loc>
+    <lastmod>2023-02-14T21:29:17+05:30</lastmod>
   </url><url>
     <loc>https://lalithkumar010.com/</loc>
+    <lastmod>2023-02-14T21:29:17+05:30</lastmod>
+  </url><url>
+    <loc>https://lalithkumar010.com/tags/me/</loc>
+    <lastmod>2023-02-14T21:29:17+05:30</lastmod>
+  </url><url>
+    <loc>https://lalithkumar010.com/page/</loc>
+    <lastmod>2023-02-14T21:29:17+05:30</lastmod>
   </url><url>
     <loc>https://lalithkumar010.com/tags/</loc>
+    <lastmod>2023-02-14T21:29:17+05:30</lastmod>
+  </url><url>
+    <loc>https://lalithkumar010.com/categories/</loc>
   </url>
 </urlset>
