@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome to the Blog&#39;s Section on ( : : ( ) : : )</title>
-    <link>https://lalithkumar010.com/blog/</link>
+    <link>http://lalithkumar010.com/blog/</link>
     <description>Recent content in Welcome to the Blog&#39;s Section on ( : : ( ) : : )</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 15 Feb 2023 01:58:57 +0530</lastBuildDate><atom:link href="https://lalithkumar010.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Feb 2023 01:58:57 +0530</lastBuildDate><atom:link href="http://lalithkumar010.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Experience with eJPT Certification</title>
-      <link>https://lalithkumar010.com/blog/ejpt_review/</link>
+      <link>http://lalithkumar010.com/blog/ejpt_review/</link>
       <pubDate>Wed, 15 Feb 2023 00:36:05 +0530</pubDate>
       
-      <guid>https://lalithkumar010.com/blog/ejpt_review/</guid>
+      <guid>http://lalithkumar010.com/blog/ejpt_review/</guid>
       <description>Author: Lalith Kumar
 eJPT — eLearnSecurity Junior Penetration Tester
 Exam/Certification: https://elearnsecurity.com/product/ejpt-certification/Training: https://my.ine.com/CyberSecurity/learning-paths/a223968e-3a74-45ed-884d-2d16760b8bbd/penetration-testing-studentThis blog is divided into :
@@ -20,10 +20,10 @@ What is eJPT? Why should you take eJPT? Is eJPT necessary? Who needs eJPT? Is eJ
     
     <item>
       <title>How Hackers use DNS Spoofing to redirect victims to fake websites</title>
-      <link>https://lalithkumar010.com/blog/dns-spoofing/</link>
+      <link>http://lalithkumar010.com/blog/dns-spoofing/</link>
       <pubDate>Tue, 09 Aug 2022 18:50:40 +0530</pubDate>
       
-      <guid>https://lalithkumar010.com/blog/dns-spoofing/</guid>
+      <guid>http://lalithkumar010.com/blog/dns-spoofing/</guid>
       <description>Introduction Welcome Guys, In this blog we are going to see How hackers use basic DNS Spoofing to redirect victims to fake websites
 This blog is divided into 2 parts:
 Theory behind DNS Spoofing Practical Scenario Preparing the weapons to perform the attack Performing the attack Theory behind DNS Spoofing Lets understand 2 terms first:
