@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>LexiLominite&#39;s Blog</title>
+    <title>( : : ( ) : : )</title>
     <link>https://lalithkumar010.com/</link>
-    <description>Recent content on LexiLominite&#39;s Blog</description>
+    <description>Recent content on ( : : ( ) : : )</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 15 Feb 2023 00:36:05 +0530</lastBuildDate><atom:link href="https://lalithkumar010.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Feb 2023 01:58:57 +0530</lastBuildDate><atom:link href="https://lalithkumar010.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>eJPT by LexiLominite</title>
+      <title>My Experience with eJPT Certification</title>
       <link>https://lalithkumar010.com/blog/ejpt_review/</link>
       <pubDate>Wed, 15 Feb 2023 00:36:05 +0530</pubDate>
       
@@ -28,6 +28,18 @@ What is eJPT? Why should you take eJPT? Is eJPT necessary? Who needs eJPT? Is eJ
 In this blog, I&amp;rsquo;m going to answer a few things:
 Who am I ? Why I&amp;rsquo;m starting this blog ? Who Am I ? My name is Lalith Kumar. I&amp;rsquo;m right now pursuing Diploma in Computer Engineering. I started my CyberSecurity Journey during the pandamic (CoVID-19). And in this journey I have completed few well-known CyberSecurity related certifications
 eCPPT - eLearnSecurity Certified Professional Penetration Tester eWPT - eLearnSecurity Certified Web Application Penetration Tester CRTP - Certified Professional Penetration Tester eJPT - eLearnSecurity Certified Junior Penetration Tester So to know more about me you can see My PortfolioWhy I&amp;rsquo;m starting this blog ?</description>
+    </item>
+    
+    <item>
+      <title>How Hackers use DNS Spoofing to redirect victims to fake websites</title>
+      <link>https://lalithkumar010.com/blog/dns-spoofing/</link>
+      <pubDate>Tue, 09 Aug 2022 18:50:40 +0530</pubDate>
+      
+      <guid>https://lalithkumar010.com/blog/dns-spoofing/</guid>
+      <description>Introduction Welcome Guys, In this blog we are going to see How hackers use basic DNS Spoofing to redirect victims to fake websites
+This blog is divided into 2 parts:
+Theory behind DNS Spoofing Practical Scenario Preparing the weapons to perform the attack Performing the attack Theory behind DNS Spoofing Lets understand 2 terms first:
+DNS Spoofing What is DNS ? DNS stands for Domain Name System Every webserver you see in the world has an IP address (like 157.</description>
     </item>
     
   </channel>
